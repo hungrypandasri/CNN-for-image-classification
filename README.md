@@ -37,44 +37,6 @@ Plot the training and validation curves for both loss and accuracy. Visualize ho
 - torchvision
 - matplotlib
 
-## Usage
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/cifar10-cnn-classification.git
-    cd cifar10-cnn-classification
-    ```
-
-2. Install dependencies:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the training script:
-
-    ```bash
-    python train.py
-    ```
-
-4. Evaluate the model:
-
-    ```bash
-    python evaluate.py
-    ```
-
-5. View the plotted curves:
-
-    ```bash
-    python plot_curves.py
-    ```
-
-## Contributors
-
-- Your Name
-- Collaborator Name (if any)
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
